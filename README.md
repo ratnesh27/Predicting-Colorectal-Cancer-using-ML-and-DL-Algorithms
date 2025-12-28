@@ -21,8 +21,11 @@ The  Histopathology  image  Dataset  was  split  into  three  sets:  Training, V
 
 # Technologies Used
 Programming - Python
+
 Platform - Google Colab
+
 Data Handling - NumPy, OpenCV(cv2), os
+
 Visualization - Matplotlib
 Deep Learning - TensorFlow, Keras, Keras Layers(Conv2D, Dense)
 Data Augmentation - ImageDataGenerator(TensorFlow)
