@@ -21,3 +21,8 @@ The  Histopathology  image  Dataset  was  split  into  three  sets:  Training, V
 
 # Author
 . Kumar Ratnesh - Initial work - (https://github.com/ratnesh27)
+
+# License 
+NA
+
+# Acknowledgments
