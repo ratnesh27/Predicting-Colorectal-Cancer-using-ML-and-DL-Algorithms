@@ -25,4 +25,10 @@ Kumar Ratnesh - Initial work - (https://github.com/ratnesh27)
 # License 
 NA
 
-# Acknowledgments
+# References
+(1)D.    Alboaneen,    “Predicting    Colorectal    Cancer    Using    Machine  and  Deep Learning Algorithms: Challenges and Approaches,” MDPI Journal of Artificial
+Intelligence,    vol.    7,    no.    2,    p.    74,    2024.    [Online].    Available: https://www.mdpi.com/2504-2289/7/2/74
+ 
+(2)S. Mehta et al., “Advancements in Deep Learning for Colorectal Cancer Image    Analysis,”    ScienceDirect,    Computer    Methods    and    Programs    in Biomedicine,2023. https://www.sciencedirect.com/science/article/pii/S2665917423003124  [Online].
+ 
+(3)A. Kumar et al., “Colorectal Cancer Detection  and Classification Using Deep   Learning   Techniques,”   ScienceDirect,   Journal   of   Biomedical Informatics,  https://www.sciencedirect.com/science/article/pii/
